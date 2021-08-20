@@ -1,0 +1,507 @@
+
+
+ 
+Date,Batter,Tm,Opp,Pitcher,WPA,RE24,LI
+1973-04-06,Jim Wynn,HOU,@ATL,Gary Gentry\batter_vs_pitcher.cgi?pitcher=gentrga01&batter=wynnji01,0.16,1.00,1.45
+1973-04-06,Brooks Robinson,BAL,MIL,Jim Colborn\batter_vs_pitcher.cgi?pitcher=colboji01&batter=robinbr01,0.20,2.52,1.70
+1973-04-06,Don Baylor,BAL,MIL,Bill Champion\batter_vs_pitcher.cgi?pitcher=champbi01&batter=baylodo01,0.00,1.00,.00
+1973-04-06,Brooks Robinson,BAL,MIL,Bill Champion\batter_vs_pitcher.cgi?pitcher=champbi01&batter=robinbr01,0.00,1.00,.00
+1973-04-06,Carl Yastrzemski,BOS,NYY,Mel Stottlemyre\batter_vs_pitcher.cgi?pitcher=stottme01&batter=yastrca01,0.08,1.00,.35
+1973-04-06,Carlton Fisk,BOS,NYY,Mel Stottlemyre\batter_vs_pitcher.cgi?pitcher=stottme01&batter=fiskca01,0.19,1.74,1.29
+1973-04-06,Graig Nettles,NYY,@BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=nettlgr01,0.10,1.00,.42
+1973-04-06,Carlton Fisk,BOS,NYY,Lindy McDaniel\batter_vs_pitcher.cgi?pitcher=mcdanli01&batter=fiskca01,0.05,2.69,.71
+1973-04-06,Frank Robinson,CAL,KCR,Steve Busby\batter_vs_pitcher.cgi?pitcher=busbyst01&batter=robinfr02,0.12,1.00,.92
+1973-04-06,Cleon Jones,NYM,PHI,Steve Carlton\batter_vs_pitcher.cgi?pitcher=carltst01&batter=jonescl01,0.24,1.79,1.49
+1973-04-06,Cleon Jones,NYM,PHI,Steve Carlton\batter_vs_pitcher.cgi?pitcher=carltst01&batter=jonescl01,0.05,1.00,.36
+1973-04-06,Tony Oliva,MIN,@OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=olivato01,0.15,1.60,1.11
+1973-04-06,Jim Holt,MIN,@OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=holtji01,0.07,1.00,.36
+1973-04-06,Larry Hisle,MIN,@OAK,Rob Gardner\batter_vs_pitcher.cgi?pitcher=gardnro01&batter=hislela01,0.06,1.00,.28
+1973-04-06,Richie Hebner,PIT,STL,Bob Gibson\batter_vs_pitcher.cgi?pitcher=gibsobo01&batter=hebneri01,0.05,1.00,.62
+1973-04-06,Joe Ferguson,LAD,@SDP,Clay Kirby\batter_vs_pitcher.cgi?pitcher=kirbycl01&batter=fergujo01,0.03,1.00,.64
+1973-04-07,Pedro Garcia,MIL,@BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=garcipe01,0.24,2.37,2.08
+1973-04-07,Dave May,MIL,@BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=mayda01,0.06,1.59,.47
+1973-04-07,Merv Rettenmund,BAL,MIL,Frank Linzy\batter_vs_pitcher.cgi?pitcher=linzyfr01&batter=retteme01,0.20,2.37,1.69
+1973-04-07,Dave May,MIL,@BAL,Doyle Alexander\batter_vs_pitcher.cgi?pitcher=alexado01&batter=mayda01,0.34,1.00,2.28
+1973-04-07,Gene Michael,NYY,@BOS,Marty Pattin\batter_vs_pitcher.cgi?pitcher=pattima01&batter=michage01,0.10,1.00,.67
+1973-04-07,Carl Yastrzemski,BOS,NYY,Steve Kline\batter_vs_pitcher.cgi?pitcher=klinest01&batter=yastrca01,0.10,1.00,.59
+1973-04-07,Rico Petrocelli,BOS,NYY,Jim Magnuson\batter_vs_pitcher.cgi?pitcher=magnuji01&batter=petrori01,0.00,2.67,.03
+1973-04-07,Graig Nettles,NYY,@BOS,Marty Pattin\batter_vs_pitcher.cgi?pitcher=pattima01&batter=nettlgr01,0.00,1.61,.01
+1973-04-07,Willie McCovey,SFG,@CIN,Jack Billingham\batter_vs_pitcher.cgi?pitcher=billija01&batter=mccovwi01,0.09,1.00,.31
+1973-04-07,Jim Willoughby,SFG,@CIN,Tom Hall\batter_vs_pitcher.cgi?pitcher=hallto01&batter=willoji01,0.05,1.00,.32
+1973-04-07,Bobby Bonds,SFG,@CIN,Tom Hall\batter_vs_pitcher.cgi?pitcher=hallto01&batter=bondsbo01,0.03,1.00,.18
+1973-04-07,Bobby Tolan,CIN,SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=tolanbo01,0.43,2.39,2.58
+1973-04-07,Chris Chambliss,CLE,DET,Mickey Lolich\batter_vs_pitcher.cgi?pitcher=lolicmi01&batter=chambch01,0.16,1.59,1.22
+1973-04-07,Mickey Stanley,DET,@CLE,Gaylord Perry\batter_vs_pitcher.cgi?pitcher=perryga01&batter=stanlmi01,0.12,1.00,1.43
+1973-04-07,John Milner,NYM,PHI,Jim Lonborg\batter_vs_pitcher.cgi?pitcher=lonboji01&batter=milnejo01,0.12,1.00,.70
+1973-04-07,Bill Robinson,PHI,@NYM,Jon Matlack\batter_vs_pitcher.cgi?pitcher=matlajo01&batter=robinbi02,0.17,1.00,1.46
+1973-04-07,Gene Tenace,OAK,MIN,Bill Hands\batter_vs_pitcher.cgi?pitcher=handsbi01&batter=tenacge01,0.12,1.00,.42
+1973-04-07,Larry Hisle,MIN,@OAK,Blue Moon Odom\batter_vs_pitcher.cgi?pitcher=odombl01&batter=hislela01,0.25,2.62,1.90
+1973-04-07,Reggie Jackson,OAK,MIN,Ken Sanders\batter_vs_pitcher.cgi?pitcher=sandeke01&batter=jacksre01,0.05,1.00,.82
+1973-04-07,Joe Ferguson,LAD,@SDP,Fred Norman\batter_vs_pitcher.cgi?pitcher=normafr01&batter=fergujo01,0.12,1.00,.93
+1973-04-07,Cito Gaston,SDP,LAD,Andy Messersmith\batter_vs_pitcher.cgi?pitcher=messean01&batter=gastoci01,0.60,2.69,2.84
+1973-04-07,Jerry Morales,SDP,LAD,Jim Brewer\batter_vs_pitcher.cgi?pitcher=breweji01&batter=moralje01,0.43,1.00,1.63
+1973-04-07,Dick Allen,CHW,@TEX,Dick Bosman\batter_vs_pitcher.cgi?pitcher=bosmadi01&batter=allendi01,0.12,1.00,.93
+1973-04-08,Thurman Munson,NYY,@BOS,John Curtis\batter_vs_pitcher.cgi?pitcher=curtijo01&batter=munsoth01,0.10,1.00,.82
+1973-04-08,Orlando Cepeda,BOS,NYY,Sparky Lyle\batter_vs_pitcher.cgi?pitcher=lylesp01&batter=cepedor01,0.36,1.00,2.27
+1973-04-08,Hal McRae,KCR,@CAL,Rudy May\batter_vs_pitcher.cgi?pitcher=mayru01&batter=mcraeha01,0.11,1.00,1.03
+1973-04-08,Lou Piniella,KCR,@CAL,Rudy May\batter_vs_pitcher.cgi?pitcher=mayru01&batter=pinielo01,0.14,1.00,1.15
+1973-04-08,Amos Otis,KCR,@CAL,Rudy May\batter_vs_pitcher.cgi?pitcher=mayru01&batter=otisam01,0.16,1.00,.84
+1973-04-08,Pepe Mangual,MON,@CHC,Burt Hooton\batter_vs_pitcher.cgi?pitcher=hootobu01&batter=mangupe01,0.17,1.74,1.15
+1973-04-08,Norm Cash,DET,@CLE,Dick Tidrow\batter_vs_pitcher.cgi?pitcher=tidrodi01&batter=cashno01,0.11,1.62,1.03
+1973-04-08,Danny Walton,MIN,@OAK,Ken Holtzman\batter_vs_pitcher.cgi?pitcher=holtzke01&batter=waltoda01,0.09,1.00,.32
+1973-04-08 (1),Cesar Cedeno,HOU,@ATL,Pat Dobson\batter_vs_pitcher.cgi?pitcher=dobsopa01&batter=cedence01,0.09,1.00,.56
+1973-04-08 (1),Darrell Evans,ATL,HOU,Ken Forsch\batter_vs_pitcher.cgi?pitcher=forscke01&batter=evansda01,0.10,1.00,.97
+1973-04-08 (1),Dusty Baker,ATL,HOU,Ken Forsch\batter_vs_pitcher.cgi?pitcher=forscke01&batter=bakerdu01,0.26,1.87,1.09
+1973-04-08 (1),Joe Torre,STL,@PIT,Nelson Briles\batter_vs_pitcher.cgi?pitcher=brilene01&batter=torrejo01,0.22,1.76,1.38
+1973-04-08 (1),Bob Robertson,PIT,STL,Wayne Granger\batter_vs_pitcher.cgi?pitcher=grangwa01&batter=roberbo01,0.43,1.00,1.71
+1973-04-08 (2),Mike Lum,ATL,HOU,Fred Gladding\batter_vs_pitcher.cgi?pitcher=gladdfr01&batter=lummi01,0.45,1.62,3.45
+1973-04-08 (2),Willie Stargell,PIT,STL,Scipio Spinks\batter_vs_pitcher.cgi?pitcher=spinksc01&batter=stargwi01,0.12,1.00,1.00
+1973-04-08 (2),Milt May,PIT,STL,Scipio Spinks\batter_vs_pitcher.cgi?pitcher=spinksc01&batter=maymi01,0.26,1.63,2.30
+1973-04-08 (2),Gene Alley,PIT,STL,Al Santorini\batter_vs_pitcher.cgi?pitcher=santoal01&batter=alleyge01,0.11,1.00,.81
+1973-04-09,Marty Perez,ATL,CIN,Roger Nelson\batter_vs_pitcher.cgi?pitcher=nelsoro02&batter=perezma01,0.29,2.61,2.18
+1973-04-09,Johnny Bench,CIN,@ATL,Carl Morton\batter_vs_pitcher.cgi?pitcher=mortoca01&batter=benchjo01,0.19,1.32,1.95
+1973-04-09,Jim Wynn,HOU,LAD,Charlie Hough\batter_vs_pitcher.cgi?pitcher=houghch01&batter=wynnji01,0.11,1.88,.47
+1973-04-09,Chris Speier,SFG,SDP,Mike Caldwell\batter_vs_pitcher.cgi?pitcher=caldwmi01&batter=speiech01,0.16,1.00,.86
+1973-04-10,Lee May,HOU,LAD,Jim Brewer\batter_vs_pitcher.cgi?pitcher=breweji01&batter=mayle01,0.44,1.00,3.35
+1973-04-10,John Mayberry,KCR,TEX,Bill Gogolewski\batter_vs_pitcher.cgi?pitcher=gogolbi01&batter=maybejo01,0.00,1.87,.03
+1973-04-10,Jeff Burroughs,TEX,@KCR,Paul Splittorff\batter_vs_pitcher.cgi?pitcher=splitpa01&batter=burroje01,0.00,1.00,.00
+1973-04-10,Willie Montanez,PHI,MON,Mike Torrez\batter_vs_pitcher.cgi?pitcher=torremi01&batter=montawi01,0.17,1.75,1.09
+1973-04-10,Hal Breeden,MON,@PHI,Steve Carlton\batter_vs_pitcher.cgi?pitcher=carltst01&batter=breedha01,0.04,1.00,.23
+1973-04-11,Vada Pinson,CAL,MIN,Bill Hands\batter_vs_pitcher.cgi?pitcher=handsbi01&batter=pinsova01,0.11,1.00,.40
+1973-04-11,Joe Rudi,OAK,@CHW,Wilbur Wood\batter_vs_pitcher.cgi?pitcher=woodwi01&batter=rudijo01,0.12,1.00,.97
+1973-04-11,Angel Mangual,OAK,@CHW,Denny O'Toole\batter_vs_pitcher.cgi?pitcher=o'toode01&batter=manguan01,0.01,2.67,.05
+1973-04-11,Sal Bando,OAK,@CHW,Denny O'Toole\batter_vs_pitcher.cgi?pitcher=o'toode01&batter=bandosa01,0.00,1.00,.00
+1973-04-11,Norm Cash,DET,BAL,Jim Palmer\batter_vs_pitcher.cgi?pitcher=palmeji01&batter=cashno01,0.11,1.00,.92
+1973-04-11,John Mayberry,KCR,TEX,Don Stanhouse\batter_vs_pitcher.cgi?pitcher=stanhdo01&batter=maybejo01,0.16,1.86,1.47
+1973-04-11,Tony Perez,CIN,@LAD,Don Sutton\batter_vs_pitcher.cgi?pitcher=suttodo01&batter=perezto01,0.09,1.00,.47
+1973-04-11,Cesar Geronimo,CIN,@LAD,Don Sutton\batter_vs_pitcher.cgi?pitcher=suttodo01&batter=geronce01,0.06,1.00,.32
+1973-04-11,Henry Aaron,ATL,@SDP,Rich Troedson\batter_vs_pitcher.cgi?pitcher=troedri01&batter=aaronha01,0.05,2.69,.39
+1973-04-11,Darrell Evans,ATL,@SDP,Bob Miller\batter_vs_pitcher.cgi?pitcher=millebo04&batter=evansda01,0.00,1.00,.01
+1973-04-11,Jim Wynn,HOU,@SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=wynnji01,0.10,1.00,.87
+1973-04-11,Jim Wynn,HOU,@SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=wynnji01,0.14,1.00,1.27
+1973-04-11,Johnny Edwards,HOU,@SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=edwarjo01,0.18,1.00,.65
+1973-04-11,Ed Goodson,SFG,HOU,Tom Griffin\batter_vs_pitcher.cgi?pitcher=griffto02&batter=goodsed01,0.23,1.00,1.91
+1973-04-11,Willie McCovey,SFG,HOU,Mike Cosgrove\batter_vs_pitcher.cgi?pitcher=cosgrmi01&batter=mccovwi01,0.67,1.62,5.40
+1973-04-11,John Milner,NYM,@STL,Reggie Cleveland\batter_vs_pitcher.cgi?pitcher=clevere01&batter=milnejo01,0.09,1.00,.32
+1973-04-12,Gene Tenace,OAK,@CHW,Stan Bahnsen\batter_vs_pitcher.cgi?pitcher=bahnsst01&batter=tenacge01,0.18,1.74,1.23
+1973-04-12,Ken Henderson,CHW,OAK,Rollie Fingers\batter_vs_pitcher.cgi?pitcher=fingero01&batter=hendeke01,0.42,2.69,6.56
+1973-04-12,Jorge Roque,MON,@PHI,Jim Lonborg\batter_vs_pitcher.cgi?pitcher=lonboji01&batter=roquejo01,0.30,3.35,2.89
+1973-04-12,Coco Laboy,MON,@PHI,Jim Lonborg\batter_vs_pitcher.cgi?pitcher=lonboji01&batter=laboyco01,0.05,1.00,.36
+1973-04-12,Manny Sanguillen,PIT,CHC,Fergie Jenkins\batter_vs_pitcher.cgi?pitcher=jenkife01&batter=sanguma01,0.13,1.00,.70
+1973-04-12,Milt May,PIT,CHC,Fergie Jenkins\batter_vs_pitcher.cgi?pitcher=jenkife01&batter=maymi01,0.17,1.76,1.08
+1973-04-12,Henry Aaron,ATL,@SDP,Fred Norman\batter_vs_pitcher.cgi?pitcher=normafr01&batter=aaronha01,0.20,1.00,.63
+1973-04-12,Willie McCovey,SFG,HOU,Ken Forsch\batter_vs_pitcher.cgi?pitcher=forscke01&batter=mccovwi01,0.12,1.00,1.13
+1973-04-12,Gary Thomasson,SFG,HOU,Ken Forsch\batter_vs_pitcher.cgi?pitcher=forscke01&batter=thomaga01,0.25,1.75,1.60
+1973-04-12,Willie McCovey,SFG,HOU,Jim Crawford\batter_vs_pitcher.cgi?pitcher=crawfji01&batter=mccovwi01,0.10,2.61,.81
+1973-04-12,Jose Cruz,STL,NYM,Tom Seaver\batter_vs_pitcher.cgi?pitcher=seaveto01&batter=cruzjo01,0.14,1.00,1.49
+1973-04-13,Amos Otis,KCR,@CHW,Eddie Fisher\batter_vs_pitcher.cgi?pitcher=fisheed02&batter=otisam01,0.11,1.00,1.03
+1973-04-13,Bill Buckner,LAD,ATL,Phil Niekro\batter_vs_pitcher.cgi?pitcher=niekrph01&batter=bucknbi01,0.05,1.00,.23
+1973-04-13,Pedro Garcia,MIL,BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=garcipe01,0.13,1.00,.46
+1973-04-13,Ollie Brown,MIL,BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=brownol02,0.11,1.00,.81
+1973-04-13,Larry Hisle,MIN,OAK,Paul Lindblad\batter_vs_pitcher.cgi?pitcher=lindbpa01&batter=hislela01,0.04,1.00,.33
+1973-04-13,Bobby Darwin,MIN,OAK,Paul Lindblad\batter_vs_pitcher.cgi?pitcher=lindbpa01&batter=darwibo01,0.05,1.87,.21
+1973-04-13,Reggie Jackson,OAK,@MIN,Jim Kaat\batter_vs_pitcher.cgi?pitcher=kaatji01&batter=jacksre01,0.02,1.87,.14
+1973-04-13,Sal Bando,OAK,@MIN,Jim Kaat\batter_vs_pitcher.cgi?pitcher=kaatji01&batter=bandosa01,0.03,1.78,.21
+1973-04-13,Deron Johnson,PHI,NYM,Jon Matlack\batter_vs_pitcher.cgi?pitcher=matlajo01&batter=johnsde01,0.06,2.02,.63
+1973-04-13,Jim Wynn,HOU,@SDP,Steve Arlin\batter_vs_pitcher.cgi?pitcher=arlinst01&batter=wynnji01,0.13,1.00,1.04
+1973-04-13,Bob Watson,HOU,@SDP,Steve Arlin\batter_vs_pitcher.cgi?pitcher=arlinst01&batter=watsobo01,0.14,1.00,.45
+1973-04-13,Cesar Cedeno,HOU,@SDP,Steve Arlin\batter_vs_pitcher.cgi?pitcher=arlinst01&batter=cedence01,0.13,1.00,.42
+1973-04-13,Chris Speier,SFG,CIN,Ross Grimsley\batter_vs_pitcher.cgi?pitcher=grimsro02&batter=speiech01,0.14,1.00,.77
+1973-04-13,Richie Scheinblum,CIN,@SFG,Ron Bryant\batter_vs_pitcher.cgi?pitcher=bryanro01&batter=scheiri01,0.28,1.33,2.76
+1973-04-13,Tony Perez,CIN,@SFG,Ron Bryant\batter_vs_pitcher.cgi?pitcher=bryanro01&batter=perezto01,0.36,1.75,2.43
+1973-04-13,Jose Cruz,STL,CHC,Milt Pappas\batter_vs_pitcher.cgi?pitcher=pappami01&batter=cruzjo01,0.09,1.88,.36
+1973-04-14,Aurelio Rodriguez,DET,CLE,Tom Hilgendorf\batter_vs_pitcher.cgi?pitcher=hilgeto01&batter=rodriau01,0.01,1.00,.08
+1973-04-14,Reggie Jackson,OAK,@MIN,Bert Blyleven\batter_vs_pitcher.cgi?pitcher=blylebe01&batter=jacksre01,0.18,1.78,1.12
+1973-04-14,Tim Foli,MON,PIT,Nelson Briles\batter_vs_pitcher.cgi?pitcher=brilene01&batter=foliti01,0.37,1.62,3.03
+1973-04-14,Ron Fairly,MON,PIT,Nelson Briles\batter_vs_pitcher.cgi?pitcher=brilene01&batter=fairlro01,0.30,1.00,1.37
+1973-04-14,Vic Davalillo,PIT,@MON,Tom Walker\batter_vs_pitcher.cgi?pitcher=walketo02&batter=davalvi01,0.02,1.00,.38
+1973-04-14,Felipe Alou,NYY,BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=aloufe01,0.12,1.00,.45
+1973-04-14,Doug Griffin,BOS,@NYY,Fritz Peterson\batter_vs_pitcher.cgi?pitcher=peterfr01&batter=griffdo01,0.14,1.00,.46
+1973-04-14,Mike Anderson,PHI,NYM,Ray Sadecki\batter_vs_pitcher.cgi?pitcher=sadecra01&batter=andermi01,0.17,2.37,1.71
+1973-04-14,Doug Rader,HOU,@SDP,Mike Caldwell\batter_vs_pitcher.cgi?pitcher=caldwmi01&batter=raderdo02,0.18,1.64,1.63
+1973-04-14,Cito Gaston,SDP,HOU,Jerry Reuss\batter_vs_pitcher.cgi?pitcher=reussje01&batter=gastoci01,0.11,1.00,.96
+1973-04-14,Jim Wynn,HOU,@SDP,Vicente Romo\batter_vs_pitcher.cgi?pitcher=romovi01&batter=wynnji01,0.07,1.76,.46
+1973-04-14,Johnny Bench,CIN,@SFG,Jim Barr\batter_vs_pitcher.cgi?pitcher=barrji01&batter=benchjo01,0.13,1.00,.77
+1973-04-14,Ray Busse,STL,CHC,Rick Reuschel\batter_vs_pitcher.cgi?pitcher=reuscri01&batter=bussera01,0.12,1.00,.45
+1973-04-15,Freddie Patek,KCR,@CHW,Stan Bahnsen\batter_vs_pitcher.cgi?pitcher=bahnsst01&batter=patekfr01,0.10,1.00,.87
+1973-04-15,Hal McRae,KCR,@CHW,Stan Bahnsen\batter_vs_pitcher.cgi?pitcher=bahnsst01&batter=mcraeha01,0.17,1.87,.72
+1973-04-15,Ed Kirkpatrick,KCR,@CHW,Rich Gossage\batter_vs_pitcher.cgi?pitcher=gossari01&batter=kirkped01,0.03,2.08,.36
+1973-04-15,John Mayberry,KCR,@CHW,Steve Stone\batter_vs_pitcher.cgi?pitcher=stonest01&batter=maybejo01,0.00,1.00,.03
+1973-04-15,Bill Melton,CHW,KCR,Steve Busby\batter_vs_pitcher.cgi?pitcher=busbyst01&batter=meltobi01,0.00,1.62,.00
+1973-04-15,Charlie Spikes,CLE,@DET,Tom Timmermann\batter_vs_pitcher.cgi?pitcher=timmeto01&batter=spikech01,0.25,2.67,1.84
+1973-04-15,Von Joshua,LAD,ATL,Gary Gentry\batter_vs_pitcher.cgi?pitcher=gentrga01&batter=joshuvo01,0.14,2.39,1.48
+1973-04-15,Henry Aaron,ATL,@LAD,Al Downing\batter_vs_pitcher.cgi?pitcher=downial01&batter=aaronha01,0.01,1.00,.05
+1973-04-15,Willie Stargell,PIT,@MON,Mike Torrez\batter_vs_pitcher.cgi?pitcher=torremi01&batter=stargwi01,0.12,1.00,.95
+1973-04-15,Gene Alley,PIT,@MON,Mike Marshall\batter_vs_pitcher.cgi?pitcher=marshmi01&batter=alleyge01,0.04,2.09,.62
+1973-04-15,John Milner,NYM,@PHI,Jim Lonborg\batter_vs_pitcher.cgi?pitcher=lonboji01&batter=milnejo01,0.18,1.75,1.16
+1973-04-15,Joe Pepitone,CHC,@STL,Reggie Cleveland\batter_vs_pitcher.cgi?pitcher=clevere01&batter=pepitjo01,0.38,2.68,2.10
+1973-04-15 (1),Gorman Thomas,MIL,BAL,Jim Palmer\batter_vs_pitcher.cgi?pitcher=palmeji01&batter=thomago01,0.44,1.00,3.36
+1973-04-15 (1),Jerry Morales,SDP,HOU,Dave Roberts\batter_vs_pitcher.cgi?pitcher=roberda05&batter=moralje01,0.12,1.00,.39
+1973-04-15 (1),Fred Kendall,SDP,HOU,Dave Roberts\batter_vs_pitcher.cgi?pitcher=roberda05&batter=kendafr01,0.16,1.76,1.02
+1973-04-15 (2),George Scott,MIL,BAL,Orlando Pena\batter_vs_pitcher.cgi?pitcher=penaor01&batter=scottge02,0.18,1.75,1.23
+1973-04-15 (2),Joe Morgan,CIN,@SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=morgajo02,0.11,1.00,.71
+1973-04-15 (2),Joe Morgan,CIN,@SFG,Elias Sosa\batter_vs_pitcher.cgi?pitcher=sosael01&batter=morgajo02,0.02,1.00,.12
+1973-04-16,Willie Horton,DET,@BOS,Marty Pattin\batter_vs_pitcher.cgi?pitcher=pattima01&batter=hortowi01,0.06,2.67,.45
+1973-04-16,Rico Petrocelli,BOS,DET,Mickey Lolich\batter_vs_pitcher.cgi?pitcher=lolicmi01&batter=petrori01,0.01,1.00,.07
+1973-04-16,Reggie Smith,BOS,DET,Mickey Lolich\batter_vs_pitcher.cgi?pitcher=lolicmi01&batter=smithre06,0.03,1.74,.23
+1973-04-16,Tony Taylor,DET,@BOS,Bill Lee\batter_vs_pitcher.cgi?pitcher=leebi03&batter=tayloto02,0.02,1.00,.13
+1973-04-16,Reggie Smith,BOS,DET,Lerrin LaGrow\batter_vs_pitcher.cgi?pitcher=lagrole01&batter=smithre06,0.01,1.00,.07
+1973-04-16,Carlton Fisk,BOS,DET,Lerrin LaGrow\batter_vs_pitcher.cgi?pitcher=lagrole01&batter=fiskca01,0.05,1.61,.94
+1973-04-16,Tony Perez,CIN,@SDP,Clay Kirby\batter_vs_pitcher.cgi?pitcher=kirbycl01&batter=perezto01,0.12,1.00,.39
+1973-04-16,Dave Concepcion,CIN,@SDP,Clay Kirby\batter_vs_pitcher.cgi?pitcher=kirbycl01&batter=conceda01,0.18,2.64,1.34
+1973-04-16,Johnny Bench,CIN,@SDP,Rich Troedson\batter_vs_pitcher.cgi?pitcher=troedri01&batter=benchjo01,0.07,1.00,.50
+1973-04-16,Nate Colbert,SDP,CIN,Clay Carroll\batter_vs_pitcher.cgi?pitcher=carrocl02&batter=colbena01,0.03,1.89,.42
+1973-04-17,Earl Williams,BAL,NYY,Sparky Lyle\batter_vs_pitcher.cgi?pitcher=lylesp01&batter=williea02,0.34,1.75,3.42
+1973-04-17,Carlton Fisk,BOS,DET,Joe Coleman\batter_vs_pitcher.cgi?pitcher=colemjo05&batter=fiskca01,0.11,1.00,.46
+1973-04-17,Norm Cash,DET,@BOS,Lynn McGlothen\batter_vs_pitcher.cgi?pitcher=mcgloly01&batter=cashno01,0.12,1.00,1.08
+1973-04-17,Al Kaline,DET,@BOS,Lynn McGlothen\batter_vs_pitcher.cgi?pitcher=mcgloly01&batter=kalinal01,0.08,1.61,.75
+1973-04-17,Rico Petrocelli,BOS,DET,Joe Coleman\batter_vs_pitcher.cgi?pitcher=colemjo05&batter=petrori01,0.03,1.00,.42
+1973-04-17,Carlton Fisk,BOS,DET,Joe Coleman\batter_vs_pitcher.cgi?pitcher=colemjo05&batter=fiskca01,0.06,1.00,.70
+1973-04-17,Bill Melton,CHW,TEX,Dick Bosman\batter_vs_pitcher.cgi?pitcher=bosmadi01&batter=meltobi01,0.07,1.74,.48
+1973-04-17,Dave Nelson,TEX,@CHW,Eddie Fisher\batter_vs_pitcher.cgi?pitcher=fisheed02&batter=nelsoda01,0.00,1.62,.01
+1973-04-17,Dave Nelson,TEX,@CHW,Eddie Fisher\batter_vs_pitcher.cgi?pitcher=fisheed02&batter=nelsoda01,0.00,2.67,.00
+1973-04-17,Don Money,MIL,@CLE,Dick Tidrow\batter_vs_pitcher.cgi?pitcher=tidrodi01&batter=moneydo01,0.04,1.00,.47
+1973-04-17,John Briggs,MIL,@CLE,Dick Tidrow\batter_vs_pitcher.cgi?pitcher=tidrodi01&batter=briggjo02,0.06,1.00,.66
+1973-04-17,Pedro Garcia,MIL,@CLE,Dick Tidrow\batter_vs_pitcher.cgi?pitcher=tidrodi01&batter=garcipe01,0.08,1.00,.33
+1973-04-17,George Hendrick,CLE,MIL,Bill Champion\batter_vs_pitcher.cgi?pitcher=champbi01&batter=hendrge01,0.07,1.00,.25
+1973-04-17,Willie Davis,LAD,HOU,Don Wilson\batter_vs_pitcher.cgi?pitcher=wilsodo01&batter=daviswi02,0.17,1.60,1.25
+1973-04-17,Ron Cey,LAD,HOU,Don Wilson\batter_vs_pitcher.cgi?pitcher=wilsodo01&batter=ceyro01,0.05,2.69,.36
+1973-04-17,Danny Walton,MIN,CAL,Steve Barber\batter_vs_pitcher.cgi?pitcher=barbest01&batter=waltoda01,0.38,2.69,5.19
+1973-04-17,Ron Fairly,MON,PHI,Wayne Twitchell\batter_vs_pitcher.cgi?pitcher=twitcwa01&batter=fairlro01,0.05,1.00,.25
+1973-04-17,Rick Monday,CHC,@NYM,Tom Seaver\batter_vs_pitcher.cgi?pitcher=seaveto01&batter=mondari01,0.13,1.00,1.08
+1973-04-17,Joe Morgan,CIN,@SDP,Fred Norman\batter_vs_pitcher.cgi?pitcher=normafr01&batter=morgajo02,0.21,1.89,.82
+1973-04-17 (1),Tito Fuentes,SFG,ATL,Tom House\batter_vs_pitcher.cgi?pitcher=houseto01&batter=fuentti01,0.00,1.00,.02
+1973-04-17 (1),Davey Johnson,ATL,@SFG,Jim Barr\batter_vs_pitcher.cgi?pitcher=barrji01&batter=johnsda02,0.00,1.00,.00
+1973-04-17 (2),Bobby Bonds,SFG,ATL,Ron Reed\batter_vs_pitcher.cgi?pitcher=reedro01&batter=bondsbo01,0.10,1.00,.79
+1973-04-18,Earl Williams,BAL,NYY,Doc Medich\batter_vs_pitcher.cgi?pitcher=medicdo01&batter=williea02,0.16,1.75,1.07
+1973-04-18,Thurman Munson,NYY,@BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=munsoth01,0.36,1.62,2.83
+1973-04-18,Felipe Alou,NYY,@BAL,Grant Jackson\batter_vs_pitcher.cgi?pitcher=jacksgr01&batter=aloufe01,0.14,1.88,.60
+1973-04-18,Al Kaline,DET,@BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=kalinal01,0.10,1.00,.40
+1973-04-18,Willie Horton,DET,@BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=hortowi01,0.10,1.00,.82
+1973-04-18,Ed Brinkman,DET,@BOS,Bill Lee\batter_vs_pitcher.cgi?pitcher=leebi03&batter=brinked01,0.04,1.00,.35
+1973-04-18,Dick Allen,CHW,TEX,Mike Paul\batter_vs_pitcher.cgi?pitcher=paulmi01&batter=allendi01,0.16,1.65,1.76
+1973-04-18,Bill Melton,CHW,TEX,Mike Paul\batter_vs_pitcher.cgi?pitcher=paulmi01&batter=meltobi01,0.07,1.00,.62
+1973-04-18,Ed Kirkpatrick,KCR,OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=kirkped01,0.20,2.35,1.73
+1973-04-18,Cookie Rojas,KCR,OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=rojasco01,0.12,1.00,.77
+1973-04-18,Gene Tenace,OAK,@KCR,Bruce Dal Canton\batter_vs_pitcher.cgi?pitcher=dalcabr01&batter=tenacge01,0.65,1.74,3.88
+1973-04-18,Rod Carew,MIN,CAL,Nolan Ryan\batter_vs_pitcher.cgi?pitcher=ryanno01&batter=carewro01,0.15,1.62,1.42
+1973-04-18,Frank Robinson,CAL,@MIN,Bert Blyleven\batter_vs_pitcher.cgi?pitcher=blylebe01&batter=robinfr02,0.25,1.00,1.85
+1973-04-18,Bobby Bonds,SFG,ATL,Tom House\batter_vs_pitcher.cgi?pitcher=houseto01&batter=bondsbo01,0.42,1.00,1.76
+1973-04-18,Willie Stargell,PIT,@STL,Rick Wise\batter_vs_pitcher.cgi?pitcher=wiseri01&batter=stargwi01,0.23,2.37,1.98
+1973-04-19,Bobby Murcer,NYY,@BAL,Orlando Pena\batter_vs_pitcher.cgi?pitcher=penaor01&batter=murcebo01,0.14,2.62,1.05
+1973-04-19,Earl Williams,BAL,NYY,Fritz Peterson\batter_vs_pitcher.cgi?pitcher=peterfr01&batter=williea02,0.03,1.00,.23
+1973-04-19,Orlando Cepeda,BOS,DET,Woodie Fryman\batter_vs_pitcher.cgi?pitcher=frymawo01&batter=cepedor01,0.17,1.61,1.63
+1973-04-19,Mickey Stanley,DET,@BOS,John Curtis\batter_vs_pitcher.cgi?pitcher=curtijo01&batter=stanlmi01,0.27,2.60,1.99
+1973-04-19,Dwight Evans,BOS,DET,Woodie Fryman\batter_vs_pitcher.cgi?pitcher=frymawo01&batter=evansdw01,0.09,1.00,.91
+1973-04-19,George Scott,MIL,@CLE,Steve Dunning\batter_vs_pitcher.cgi?pitcher=dunnist01&batter=scottge02,0.15,1.62,1.39
+1973-04-19,Charlie Spikes,CLE,MIL,Jerry Bell\batter_vs_pitcher.cgi?pitcher=bellje01&batter=spikech01,0.17,1.62,1.67
+1973-04-19,Darrell Porter,MIL,@CLE,Milt Wilcox\batter_vs_pitcher.cgi?pitcher=wilcomi01&batter=porteda02,0.33,2.67,2.25
+1973-04-19,George Scott,MIL,@CLE,Ray Lamb\batter_vs_pitcher.cgi?pitcher=lambra01&batter=scottge02,0.20,1.00,1.73
+1973-04-19,Gene Tenace,OAK,@KCR,Paul Splittorff\batter_vs_pitcher.cgi?pitcher=splitpa01&batter=tenacge01,0.12,1.74,.87
+1973-04-19,Amos Otis,KCR,OAK,Paul Lindblad\batter_vs_pitcher.cgi?pitcher=lindbpa01&batter=otisam01,0.02,1.61,.14
+1973-04-19,Willie Davis,LAD,SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=daviswi02,0.25,1.89,2.06
+1973-04-19,Bobby Bonds,SFG,@LAD,Claude Osteen\batter_vs_pitcher.cgi?pitcher=osteecl01&batter=bondsbo01,0.17,1.60,1.31
+1973-04-19,Willie Davis,LAD,SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=daviswi02,0.16,1.63,1.87
+1973-04-19,Ken Singleton,MON,PHI,Dick Selma\batter_vs_pitcher.cgi?pitcher=selmadi01&batter=singlke01,0.12,2.68,.93
+1973-04-19 (1),John Milner,NYM,CHC,Dave LaRoche\batter_vs_pitcher.cgi?pitcher=larocda01&batter=milnejo01,0.08,1.00,.36
+1973-04-20,Gates Brown,DET,@BAL,Doyle Alexander\batter_vs_pitcher.cgi?pitcher=alexado01&batter=brownga01,0.31,2.68,1.82
+1973-04-20,Henry Aaron,ATL,@CIN,Don Gullett\batter_vs_pitcher.cgi?pitcher=gulledo01&batter=aaronha01,0.12,1.79,.69
+1973-04-20,Orlando Cepeda,BOS,@CLE,Gaylord Perry\batter_vs_pitcher.cgi?pitcher=perryga01&batter=cepedor01,0.11,1.00,.97
+1973-04-20,Charlie Spikes,CLE,BOS,Marty Pattin\batter_vs_pitcher.cgi?pitcher=pattima01&batter=spikech01,0.18,1.00,.98
+1973-04-20,Ben Oglivie,BOS,@CLE,Gaylord Perry\batter_vs_pitcher.cgi?pitcher=perryga01&batter=oglivbe01,0.12,1.00,1.43
+1973-04-20,Bill Melton,CHW,@KCR,Mike Jackson\batter_vs_pitcher.cgi?pitcher=jacksmi01&batter=meltobi01,0.04,1.74,.26
+1973-04-20,Joe Ferguson,LAD,SFG,Juan Marichal\batter_vs_pitcher.cgi?pitcher=maricju01&batter=fergujo01,0.12,1.00,.70
+1973-04-20,Willie Davis,LAD,SFG,Juan Marichal\batter_vs_pitcher.cgi?pitcher=maricju01&batter=daviswi02,0.09,1.00,.98
+1973-04-20,Willie McCovey,SFG,@LAD,George Culver\batter_vs_pitcher.cgi?pitcher=culvege01&batter=mccovwi01,0.10,1.88,.41
+1973-04-20,Dave May,MIL,NYY,Mel Stottlemyre\batter_vs_pitcher.cgi?pitcher=stottme01&batter=mayda01,0.30,1.88,1.26
+1973-04-20,Bob Oliver,CAL,@OAK,Ken Holtzman\batter_vs_pitcher.cgi?pitcher=holtzke01&batter=olivebo01,0.15,1.00,1.19
+1973-04-20,Sal Bando,OAK,CAL,Clyde Wright\batter_vs_pitcher.cgi?pitcher=wrighcl01&batter=bandosa01,0.32,1.88,1.19
+1973-04-20,Leroy Stanton,CAL,@OAK,Ken Holtzman\batter_vs_pitcher.cgi?pitcher=holtzke01&batter=stantle01,0.22,1.00,1.12
+1973-04-20,Joe Rudi,OAK,CAL,Clyde Wright\batter_vs_pitcher.cgi?pitcher=wrighcl01&batter=rudijo01,0.33,1.00,1.79
+1973-04-21,Earl Williams,BAL,DET,Joe Coleman\batter_vs_pitcher.cgi?pitcher=colemjo05&batter=williea02,0.14,1.00,1.36
+1973-04-21,Willie Horton,DET,@BAL,Dave McNally\batter_vs_pitcher.cgi?pitcher=mcnalda01&batter=hortowi01,0.13,1.00,.45
+1973-04-21,Al Oliver,PIT,@CHC,Fergie Jenkins\batter_vs_pitcher.cgi?pitcher=jenkife01&batter=oliveal01,0.17,1.74,1.15
+1973-04-21,Rick Monday,CHC,PIT,Nelson Briles\batter_vs_pitcher.cgi?pitcher=brilene01&batter=mondari01,0.10,1.00,.91
+1973-04-21,Rennie Stennett,PIT,@CHC,Bob Locker\batter_vs_pitcher.cgi?pitcher=lockebo02&batter=stennre01,0.02,1.00,.43
+1973-04-21,Darrell Evans,ATL,@CIN,Jack Billingham\batter_vs_pitcher.cgi?pitcher=billija01&batter=evansda01,0.23,2.39,2.01
+1973-04-21,Orlando Cepeda,BOS,@CLE,Dick Tidrow\batter_vs_pitcher.cgi?pitcher=tidrodi01&batter=cepedor01,0.25,2.61,1.74
+1973-04-21,Rusty Torres,CLE,BOS,Lynn McGlothen\batter_vs_pitcher.cgi?pitcher=mcgloly01&batter=torreru01,0.05,1.00,.56
+1973-04-21,Oscar Gamble,CLE,BOS,Lynn McGlothen\batter_vs_pitcher.cgi?pitcher=mcgloly01&batter=gamblos01,0.22,2.36,1.80
+1973-04-21,Orlando Cepeda,BOS,@CLE,Mike Kilkenny\batter_vs_pitcher.cgi?pitcher=kilkemi01&batter=cepedor01,0.14,1.00,.49
+1973-04-21,Rico Petrocelli,BOS,@CLE,Ed Farmer\batter_vs_pitcher.cgi?pitcher=farmeed01&batter=petrori01,0.09,1.00,.30
+1973-04-21,Tommy Harper,BOS,@CLE,Ed Farmer\batter_vs_pitcher.cgi?pitcher=farmeed01&batter=harpeto01,0.01,1.08,.07
+1973-04-21,Rico Carty,TEX,@MIN,Jim Kaat\batter_vs_pitcher.cgi?pitcher=kaatji01&batter=cartyri01,0.25,2.67,1.62
+1973-04-21,Bobby Darwin,MIN,TEX,Pete Broberg\batter_vs_pitcher.cgi?pitcher=brobepe01&batter=darwibo01,0.16,1.62,1.50
+1973-04-21,Alex Johnson,TEX,@MIN,Jim Kaat\batter_vs_pitcher.cgi?pitcher=kaatji01&batter=johnsal01,0.17,1.00,.98
+1973-04-21,John Milner,NYM,MON,Joe Gilbert\batter_vs_pitcher.cgi?pitcher=gilbejo02&batter=milnejo01,0.02,1.60,.11
+1973-04-22,Earl Williams,BAL,DET,Jim Perry\batter_vs_pitcher.cgi?pitcher=perryji01&batter=williea02,0.23,1.75,1.52
+1973-04-22,Dave Concepcion,CIN,ATL,Ron Reed\batter_vs_pitcher.cgi?pitcher=reedro01&batter=conceda01,0.05,1.00,.36
+1973-04-22,Johnny Oates,ATL,@CIN,Ross Grimsley\batter_vs_pitcher.cgi?pitcher=grimsro02&batter=oatesjo01,0.06,1.00,.59
+1973-04-22,Dusty Baker,ATL,@CIN,Ross Grimsley\batter_vs_pitcher.cgi?pitcher=grimsro02&batter=bakerdu01,0.02,1.00,.22
+1973-04-22,Darrell Evans,ATL,@CIN,Ross Grimsley\batter_vs_pitcher.cgi?pitcher=grimsro02&batter=evansda01,0.02,1.00,.23
+1973-04-22,Joe Ferguson,LAD,SFG,Jim Barr\batter_vs_pitcher.cgi?pitcher=barrji01&batter=fergujo01,0.12,1.00,.92
+1973-04-22,Garry Maddox,SFG,@LAD,Andy Messersmith\batter_vs_pitcher.cgi?pitcher=messean01&batter=maddoga01,0.36,2.69,2.20
+1973-04-22,Don Money,MIL,NYY,Steve Kline\batter_vs_pitcher.cgi?pitcher=klinest01&batter=moneydo01,0.15,1.00,.54
+1973-04-22,John Vukovich,MIL,NYY,Sparky Lyle\batter_vs_pitcher.cgi?pitcher=lylesp01&batter=vukovjo01,0.42,2.03,3.77
+1973-04-22,Harmon Killebrew,MIN,TEX,Dick Bosman\batter_vs_pitcher.cgi?pitcher=bosmadi01&batter=killeha01,0.13,1.00,.78
+1973-04-22,Jeff Burroughs,TEX,@MIN,Bert Blyleven\batter_vs_pitcher.cgi?pitcher=blylebe01&batter=burroje01,0.17,1.00,.67
+1973-04-22,Sal Bando,OAK,CAL,Nolan Ryan\batter_vs_pitcher.cgi?pitcher=ryanno01&batter=bandosa01,0.12,1.00,.65
+1973-04-22,Bobby Valentine,CAL,@OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=valenbo02,0.12,1.00,.82
+1973-04-22,Tommy McCraw,CAL,@OAK,Horacio Pina\batter_vs_pitcher.cgi?pitcher=pinaho01&batter=mccrato01,0.35,1.00,2.80
+1973-04-22 (1),Willie Stargell,PIT,@CHC,Milt Pappas\batter_vs_pitcher.cgi?pitcher=pappami01&batter=stargwi01,0.18,1.78,1.12
+1973-04-22 (1),Jose Cardenal,CHC,PIT,Dock Ellis\batter_vs_pitcher.cgi?pitcher=ellisdo01&batter=cardejo02,0.12,1.00,.49
+1973-04-22 (1),Bob Robertson,PIT,@CHC,Milt Pappas\batter_vs_pitcher.cgi?pitcher=pappami01&batter=roberbo01,0.17,2.61,1.41
+1973-04-22 (1),Bob Robertson,PIT,@CHC,Jack Aker\batter_vs_pitcher.cgi?pitcher=akerja01&batter=roberbo01,0.06,1.00,.48
+1973-04-22 (1),Willie Stargell,PIT,@CHC,Dave LaRoche\batter_vs_pitcher.cgi?pitcher=larocda01&batter=stargwi01,0.02,2.08,.30
+1973-04-22 (1),Rico Petrocelli,BOS,@CLE,Brent Strom\batter_vs_pitcher.cgi?pitcher=strombr01&batter=petrori01,0.17,1.59,1.30
+1973-04-22 (1),Oscar Gamble,CLE,BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=gamblos01,0.10,1.00,.97
+1973-04-22 (1),Reggie Smith,BOS,@CLE,Brent Strom\batter_vs_pitcher.cgi?pitcher=strombr01&batter=smithre06,0.09,1.00,.48
+1973-04-22 (1),Jack Brohamer,CLE,BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=brohaja01,0.10,1.00,1.03
+1973-04-22 (1),Carl Yastrzemski,BOS,@CLE,Jerry Johnson\batter_vs_pitcher.cgi?pitcher=johnsje01&batter=yastrca01,0.13,1.78,.96
+1973-04-22 (1),Ron Lolich,CLE,BOS,Sonny Siebert\batter_vs_pitcher.cgi?pitcher=siebeso01&batter=lolicro01,0.91,3.34,3.74
+1973-04-22 (1),Carlos May,CHW,@KCR,Dick Drago\batter_vs_pitcher.cgi?pitcher=dragodi01&batter=mayca01,0.14,2.08,1.42
+1973-04-22 (1),John Mayberry,KCR,CHW,Wilbur Wood\batter_vs_pitcher.cgi?pitcher=woodwi01&batter=maybejo01,0.06,1.00,.58
+1973-04-22 (1),Johnny Jeter,CHW,@KCR,Bruce Dal Canton\batter_vs_pitcher.cgi?pitcher=dalcabr01&batter=jeterjo01,0.05,1.00,.26
+1973-04-22 (1),Ron Fairly,MON,@NYM,Tom Seaver\batter_vs_pitcher.cgi?pitcher=seaveto01&batter=fairlro01,0.11,1.00,.93
+1973-04-22 (2),Ron Santo,CHC,PIT,Steve Blass\batter_vs_pitcher.cgi?pitcher=blassst01&batter=santoro01,0.09,1.32,1.00
+1973-04-22 (2),Rick Monday,CHC,PIT,Jim McKee\batter_vs_pitcher.cgi?pitcher=mckeeji02&batter=mondari01,0.01,1.78,.06
+1973-04-22 (2),Al Oliver,PIT,@CHC,Larry Gura\batter_vs_pitcher.cgi?pitcher=gurala01&batter=oliveal01,0.00,1.74,.00
+1973-04-22 (2),Rennie Stennett,PIT,@CHC,Larry Gura\batter_vs_pitcher.cgi?pitcher=gurala01&batter=stennre01,0.00,1.00,.00
+1973-04-22 (2),Charlie Spikes,CLE,BOS,Bob Veale\batter_vs_pitcher.cgi?pitcher=vealebo01&batter=spikech01,0.05,1.00,.67
+1973-04-22 (2),Bob Bailey,MON,@NYM,Jim McAndrew\batter_vs_pitcher.cgi?pitcher=mcandji01&batter=bailebo01,0.00,1.88,.00
+1973-04-22 (2),Mike Schmidt,PHI,STL,Bob Gibson\batter_vs_pitcher.cgi?pitcher=gibsobo01&batter=schmimi01,0.47,1.00,1.33
+1973-04-23,Doug Rader,HOU,SDP,Bill Greif\batter_vs_pitcher.cgi?pitcher=greifbi01&batter=raderdo02,0.19,1.75,1.23
+1973-04-23,Pedro Garcia,MIL,NYY,Doc Medich\batter_vs_pitcher.cgi?pitcher=medicdo01&batter=garcipe01,0.04,1.00,.44
+1973-04-23,Bob Coluccio,MIL,NYY,Doc Medich\batter_vs_pitcher.cgi?pitcher=medicdo01&batter=colucbo01,0.05,1.00,.43
+1973-04-24,Mike Lum,ATL,PHI,Larry Christenson\batter_vs_pitcher.cgi?pitcher=chrisla01&batter=lummi01,0.11,1.00,.71
+1973-04-24,Johnny Oates,ATL,PHI,Ken Brett\batter_vs_pitcher.cgi?pitcher=brettke01&batter=oatesjo01,0.01,1.87,.04
+1973-04-24,Larry Hisle,MIN,@BOS,Marty Pattin\batter_vs_pitcher.cgi?pitcher=pattima01&batter=hislela01,0.11,1.00,.99
+1973-04-24,Frank Robinson,CAL,BAL,Doyle Alexander\batter_vs_pitcher.cgi?pitcher=alexado01&batter=robinfr02,0.20,2.11,1.65
+1973-04-24,Ron Santo,CHC,SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=santoro01,0.14,1.00,.85
+1973-04-24,Ron Santo,CHC,SFG,Randy Moffitt\batter_vs_pitcher.cgi?pitcher=moffira01&batter=santoro01,0.44,1.00,3.45
+1973-04-24,John Mayberry,KCR,MIL,Jerry Bell\batter_vs_pitcher.cgi?pitcher=bellje01&batter=maybejo01,0.02,1.00,.13
+1973-04-24,Eddie Leon,CHW,@NYY,Fritz Peterson\batter_vs_pitcher.cgi?pitcher=peterfr01&batter=leoned01,0.18,1.60,1.37
+1973-04-24,Bill Melton,CHW,@NYY,Fritz Peterson\batter_vs_pitcher.cgi?pitcher=peterfr01&batter=meltobi01,0.13,1.00,1.08
+1973-04-24,Carlos May,CHW,@NYY,Fred Beene\batter_vs_pitcher.cgi?pitcher=beenefr01&batter=mayca01,0.03,1.00,.18
+1973-04-24,Ted Kubiak,OAK,CLE,Gaylord Perry\batter_vs_pitcher.cgi?pitcher=perryga01&batter=kubiate01,0.05,1.00,.36
+1973-04-24,Leron Lee,SDP,@PIT,Bob Moose\batter_vs_pitcher.cgi?pitcher=moosebo01&batter=leele02,0.06,1.00,.41
+1973-04-24,Willie Stargell,PIT,SDP,Steve Arlin\batter_vs_pitcher.cgi?pitcher=arlinst01&batter=stargwi01,0.12,1.00,.39
+1973-04-24,Mickey Stanley,DET,@TEX,Bill Gogolewski\batter_vs_pitcher.cgi?pitcher=gogolbi01&batter=stanlmi01,0.10,1.00,.90
+1973-04-25,Carlton Fisk,BOS,MIN,Bill Hands\batter_vs_pitcher.cgi?pitcher=handsbi01&batter=fiskca01,0.11,1.00,.43
+1973-04-25,Chris Speier,SFG,@CHC,Fergie Jenkins\batter_vs_pitcher.cgi?pitcher=jenkife01&batter=speiech01,0.10,1.00,.40
+1973-04-25,Dave Kingman,SFG,@CHC,Fergie Jenkins\batter_vs_pitcher.cgi?pitcher=jenkife01&batter=kingmda01,0.10,1.00,.82
+1973-04-25,Joe Morgan,CIN,MON,Tom Walker\batter_vs_pitcher.cgi?pitcher=walketo02&batter=morgajo02,0.11,2.69,.91
+1973-04-25,Rusty Staub,NYM,@HOU,Don Wilson\batter_vs_pitcher.cgi?pitcher=wilsodo01&batter=staubru01,0.11,1.00,.97
+1973-04-25,Rusty Staub,NYM,@HOU,Tom Griffin\batter_vs_pitcher.cgi?pitcher=griffto02&batter=staubru01,0.06,1.00,.43
+1973-04-25,Doug Rader,HOU,NYM,Jerry Koosman\batter_vs_pitcher.cgi?pitcher=koosmje01&batter=raderdo02,0.05,1.00,.63
+1973-04-25,Bob Coluccio,MIL,@KCR,Wayne Simpson\batter_vs_pitcher.cgi?pitcher=simpswa01&batter=colucbo01,0.07,1.00,.89
+1973-04-25,Carlos May,CHW,@NYY,Mel Stottlemyre\batter_vs_pitcher.cgi?pitcher=stottme01&batter=mayca01,0.11,1.00,.61
+1973-04-25,Scipio Spinks,STL,LAD,Al Downing\batter_vs_pitcher.cgi?pitcher=downial01&batter=spinksc01,0.16,1.00,.86
+1973-04-25,Jeff Burroughs,TEX,DET,Joe Coleman\batter_vs_pitcher.cgi?pitcher=colemjo05&batter=burroje01,0.12,1.00,.99
+1973-04-26,Doug Rader,HOU,NYM,Jim McAndrew\batter_vs_pitcher.cgi?pitcher=mcandji01&batter=raderdo02,0.15,1.00,1.17
+1973-04-26,Dave May,MIL,@KCR,Bruce Dal Canton\batter_vs_pitcher.cgi?pitcher=dalcabr01&batter=mayda01,0.27,2.69,5.92
+1973-04-27,Henry Aaron,ATL,NYM,Tom Seaver\batter_vs_pitcher.cgi?pitcher=seaveto01&batter=aaronha01,0.14,1.00,.52
+1973-04-27,Darrell Evans,ATL,NYM,Tom Seaver\batter_vs_pitcher.cgi?pitcher=seaveto01&batter=evansda01,0.11,1.00,.41
+1973-04-27,Dave Duncan,CLE,@CAL,Nolan Ryan\batter_vs_pitcher.cgi?pitcher=ryanno01&batter=duncada01,0.12,1.76,.79
+1973-04-27,Charlie Spikes,CLE,@CAL,Nolan Ryan\batter_vs_pitcher.cgi?pitcher=ryanno01&batter=spikech01,0.01,1.00,.10
+1973-04-27,Ron Lolich,CLE,@CAL,Nolan Ryan\batter_vs_pitcher.cgi?pitcher=ryanno01&batter=lolicro01,0.01,1.00,.05
+1973-04-27,Ed Kirkpatrick,KCR,@DET,Jim Perry\batter_vs_pitcher.cgi?pitcher=perryji01&batter=kirkped01,0.14,1.00,1.19
+1973-04-27,Amos Otis,KCR,@DET,Jim Perry\batter_vs_pitcher.cgi?pitcher=perryji01&batter=otisam01,0.13,1.00,.69
+1973-04-27,Ken Singleton,MON,@HOU,Dave Roberts\batter_vs_pitcher.cgi?pitcher=roberda05&batter=singlke01,0.25,1.60,1.92
+1973-04-27,Boog Powell,BAL,@OAK,Blue Moon Odom\batter_vs_pitcher.cgi?pitcher=odombl01&batter=powelbo01,0.21,1.75,1.34
+1973-04-27,Joe Rudi,OAK,BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=rudijo01,0.30,1.75,1.83
+1973-04-27,Gene Tenace,OAK,BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=tenacge01,0.22,1.00,1.50
+1973-04-27,Don Baylor,BAL,@OAK,Blue Moon Odom\batter_vs_pitcher.cgi?pitcher=odombl01&batter=baylodo01,0.27,1.00,1.53
+1973-04-27,Angel Mangual,OAK,BAL,Eddie Watt\batter_vs_pitcher.cgi?pitcher=watted01&batter=manguan01,0.37,1.00,2.21
+1973-04-28,Davey Johnson,ATL,NYM,Jon Matlack\batter_vs_pitcher.cgi?pitcher=matlajo01&batter=johnsda02,0.23,1.00,1.91
+1973-04-28,Rick Monday,CHC,SDP,Fred Norman\batter_vs_pitcher.cgi?pitcher=normafr01&batter=mondari01,0.10,1.00,.87
+1973-04-28,Doug Rader,HOU,MON,Steve Renko\batter_vs_pitcher.cgi?pitcher=renkost01&batter=raderdo02,0.07,1.00,.34
+1973-04-28,Jim Wynn,HOU,MON,Steve Renko\batter_vs_pitcher.cgi?pitcher=renkost01&batter=wynnji01,0.53,2.62,3.99
+1973-04-28,Bobby Murcer,NYY,MIN,Jim Kaat\batter_vs_pitcher.cgi?pitcher=kaatji01&batter=murcebo01,0.19,1.79,1.16
+1973-04-28,Matty Alou,NYY,MIN,Jim Kaat\batter_vs_pitcher.cgi?pitcher=kaatji01&batter=alouma01,0.12,1.75,.78
+1973-04-28,Graig Nettles,NYY,MIN,Joe Decker\batter_vs_pitcher.cgi?pitcher=deckejo01&batter=nettlgr01,0.05,1.75,.35
+1973-04-28,Steve Braun,MIN,@NYY,Doc Medich\batter_vs_pitcher.cgi?pitcher=medicdo01&batter=braunst01,0.02,1.00,.12
+1973-04-28,Bobby Murcer,NYY,MIN,Joe Decker\batter_vs_pitcher.cgi?pitcher=deckejo01&batter=murcebo01,0.02,1.75,.13
+1973-04-28,Bobby Grich,BAL,@OAK,Ken Holtzman\batter_vs_pitcher.cgi?pitcher=holtzke01&batter=grichbo01,0.13,1.00,.45
+1973-04-28,Bobby Bonds,SFG,@STL,Reggie Cleveland\batter_vs_pitcher.cgi?pitcher=clevere01&batter=bondsbo01,0.10,1.00,.87
+1973-04-28,Elliott Maddox,TEX,MIL,Jerry Bell\batter_vs_pitcher.cgi?pitcher=bellje01&batter=maddoel01,0.15,2.68,.86
+1973-04-29,Bill Melton,CHW,@BOS,Marty Pattin\batter_vs_pitcher.cgi?pitcher=pattima01&batter=meltobi01,0.17,1.74,1.14
+1973-04-29,Ed Herrmann,CHW,@BOS,Marty Pattin\batter_vs_pitcher.cgi?pitcher=pattima01&batter=herrmed01,0.06,1.00,.51
+1973-04-29,Dick Allen,CHW,@BOS,Marty Pattin\batter_vs_pitcher.cgi?pitcher=pattima01&batter=allendi01,0.04,1.00,.23
+1973-04-29,Charlie Spikes,CLE,@CAL,Clyde Wright\batter_vs_pitcher.cgi?pitcher=wrighcl01&batter=spikech01,0.27,1.00,1.51
+1973-04-29,George Hendrick,CLE,@CAL,Clyde Wright\batter_vs_pitcher.cgi?pitcher=wrighcl01&batter=hendrge01,0.35,1.00,2.22
+1973-04-29,Cito Gaston,SDP,@CHC,Fergie Jenkins\batter_vs_pitcher.cgi?pitcher=jenkife01&batter=gastoci01,0.11,1.00,.97
+1973-04-29,Dave Hilton,SDP,@CHC,Fergie Jenkins\batter_vs_pitcher.cgi?pitcher=jenkife01&batter=hiltoda01,0.11,1.00,1.13
+1973-04-29,Duke Sims,DET,KCR,Tom Burgmeier\batter_vs_pitcher.cgi?pitcher=burgmto01&batter=simsdu01,0.02,1.61,.12
+1973-04-29,Bob Watson,HOU,MON,Mike Torrez\batter_vs_pitcher.cgi?pitcher=torremi01&batter=watsobo01,0.11,1.00,.92
+1973-04-29,Bob Watson,HOU,MON,Mike Torrez\batter_vs_pitcher.cgi?pitcher=torremi01&batter=watsobo01,0.12,1.00,.39
+1973-04-29,Hal Breeden,MON,@HOU,Don Wilson\batter_vs_pitcher.cgi?pitcher=wilsodo01&batter=breedha01,0.29,1.79,1.47
+1973-04-29,Ken Singleton,MON,@HOU,Don Wilson\batter_vs_pitcher.cgi?pitcher=wilsodo01&batter=singlke01,0.30,1.00,.95
+1973-04-29,Reggie Jackson,OAK,BAL,Dave McNally\batter_vs_pitcher.cgi?pitcher=mcnalda01&batter=jacksre01,0.22,2.38,1.97
+1973-04-29,Sal Bando,OAK,BAL,Dave McNally\batter_vs_pitcher.cgi?pitcher=mcnalda01&batter=bandosa01,0.05,1.00,.27
+1973-04-29,Bobby Grich,BAL,@OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=grichbo01,0.01,1.00,.05
+1973-04-29 (1),Graig Nettles,NYY,MIN,Bert Blyleven\batter_vs_pitcher.cgi?pitcher=blylebe01&batter=nettlgr01,0.11,1.00,.92
+1973-04-29 (1),Richie Hebner,PIT,LAD,Andy Messersmith\batter_vs_pitcher.cgi?pitcher=messean01&batter=hebneri01,0.19,1.63,1.72
+1973-04-29 (1),Joe Ferguson,LAD,@PIT,Steve Blass\batter_vs_pitcher.cgi?pitcher=blassst01&batter=fergujo01,0.14,1.00,.80
+1973-04-29 (1),Willie Stargell,PIT,LAD,Doug Rau\batter_vs_pitcher.cgi?pitcher=raudo01&batter=stargwi01,0.49,1.00,1.68
+1973-05-01,Henry Aaron,ATL,MON,Balor Moore\batter_vs_pitcher.cgi?pitcher=mooreba02&batter=aaronha01,0.21,1.78,1.27
+1973-05-01,Darrell Evans,ATL,MON,Balor Moore\batter_vs_pitcher.cgi?pitcher=mooreba02&batter=evansda01,0.34,2.01,3.24
+1973-05-01,Mike Jorgensen,MON,@ATL,Phil Niekro\batter_vs_pitcher.cgi?pitcher=niekrph01&batter=jorgemi01,0.40,1.87,1.61
+1973-05-01,Henry Aaron,ATL,MON,John Strohmayer\batter_vs_pitcher.cgi?pitcher=strohjo01&batter=aaronha01,0.23,1.00,1.91
+1973-05-01,Jeff Burroughs,TEX,@BOS,Bill Lee\batter_vs_pitcher.cgi?pitcher=leebi03&batter=burroje01,0.08,1.00,.93
+1973-05-01,Dick Allen,CHW,BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=allendi01,0.10,1.00,.40
+1973-05-01,Brooks Robinson,BAL,@CHW,Eddie Fisher\batter_vs_pitcher.cgi?pitcher=fisheed02&batter=robinbr01,0.11,1.00,.42
+1973-05-01,Dick Allen,CHW,BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=allendi01,0.13,1.00,1.07
+1973-05-01,Ed Herrmann,CHW,BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=herrmed01,0.18,1.87,.79
+1973-05-01,Frank Robinson,CAL,@DET,Woodie Fryman\batter_vs_pitcher.cgi?pitcher=frymawo01&batter=robinfr02,0.10,1.00,.93
+1973-05-01,Billy Grabarkewitz,CAL,@DET,Woodie Fryman\batter_vs_pitcher.cgi?pitcher=frymawo01&batter=grababi01,0.10,1.00,.87
+1973-05-01,Billy Williams,CHC,@LAD,Doug Rau\batter_vs_pitcher.cgi?pitcher=raudo01&batter=willibi01,0.05,1.63,.49
+1973-05-01,Ron Santo,CHC,@LAD,Doug Rau\batter_vs_pitcher.cgi?pitcher=raudo01&batter=santoro01,0.02,1.00,.11
+1973-05-01,Jose Cardenal,CHC,@LAD,Doug Rau\batter_vs_pitcher.cgi?pitcher=raudo01&batter=cardejo02,0.01,1.00,.07
+1973-05-01,Tom Paciorek,LAD,CHC,Burt Hooton\batter_vs_pitcher.cgi?pitcher=hootobu01&batter=pacioto01,0.00,1.00,.01
+1973-05-01,Bill Buckner,LAD,CHC,Burt Hooton\batter_vs_pitcher.cgi?pitcher=hootobu01&batter=bucknbi01,0.00,1.00,.02
+1973-05-01,Gene Tenace,OAK,@MIL,Jim Colborn\batter_vs_pitcher.cgi?pitcher=colboji01&batter=tenacge01,0.11,1.00,.40
+1973-05-01,John Briggs,MIL,OAK,Blue Moon Odom\batter_vs_pitcher.cgi?pitcher=odombl01&batter=briggjo02,0.37,1.00,2.22
+1973-05-01,Bobby Murcer,NYY,KCR,Tom Burgmeier\batter_vs_pitcher.cgi?pitcher=burgmto01&batter=murcebo01,0.04,1.66,.49
+1973-05-01,Jim Wynn,HOU,@PHI,Steve Carlton\batter_vs_pitcher.cgi?pitcher=carltst01&batter=wynnji01,0.15,1.00,.86
+1973-05-01,Joe Torre,STL,@SDP,Mike Corkins\batter_vs_pitcher.cgi?pitcher=corkimi01&batter=torrejo01,0.21,1.76,1.29
+1973-05-01,Gary Thomasson,SFG,PIT,Bob Moose\batter_vs_pitcher.cgi?pitcher=moosebo01&batter=thomaga01,0.06,1.00,.27
+1973-05-01,Chris Arnold,SFG,PIT,Ramon Hernandez\batter_vs_pitcher.cgi?pitcher=hernara01&batter=arnolch01,0.01,3.34,.06
+1973-05-02,Orlando Cepeda,BOS,TEX,Pete Broberg\batter_vs_pitcher.cgi?pitcher=brobepe01&batter=cepedor01,0.24,3.33,2.57
+1973-05-02,Mike Epstein,TEX,@BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=epstemi01,0.04,1.00,.31
+1973-05-02,Ken Suarez,TEX,@BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=suareke01,0.02,1.00,.27
+1973-05-02,Aurelio Rodriguez,DET,CAL,Nolan Ryan\batter_vs_pitcher.cgi?pitcher=ryanno01&batter=rodriau01,0.10,1.00,.62
+1973-05-02,Bob Oliver,CAL,@DET,Mickey Lolich\batter_vs_pitcher.cgi?pitcher=lolicmi01&batter=olivebo01,0.26,1.87,1.06
+1973-05-02,Willie Davis,LAD,CHC,Milt Pappas\batter_vs_pitcher.cgi?pitcher=pappami01&batter=daviswi02,0.12,1.00,.92
+1973-05-02,Willie Davis,LAD,CHC,Jack Aker\batter_vs_pitcher.cgi?pitcher=akerja01&batter=daviswi02,0.11,1.88,.46
+1973-05-02,Mike Hegan,OAK,@MIL,Jerry Bell\batter_vs_pitcher.cgi?pitcher=bellje01&batter=heganmi01,0.21,1.00,.79
+1973-05-02,Gene Tenace,OAK,@MIL,Ray Newman\batter_vs_pitcher.cgi?pitcher=newmara01&batter=tenacge01,0.12,2.37,1.26
+1973-05-02,George Mitterwald,MIN,CLE,Brent Strom\batter_vs_pitcher.cgi?pitcher=strombr01&batter=mittege01,0.10,1.62,.94
+1973-05-02,Johnny Bench,CIN,@NYM,Tom Seaver\batter_vs_pitcher.cgi?pitcher=seaveto01&batter=benchjo01,0.18,1.00,.96
+1973-05-02,Pete Rose,CIN,@NYM,Tom Seaver\batter_vs_pitcher.cgi?pitcher=seaveto01&batter=rosepe01,0.21,1.88,.87
+1973-05-02,Dave Concepcion,CIN,@NYM,Ray Sadecki\batter_vs_pitcher.cgi?pitcher=sadecra01&batter=conceda01,0.02,1.39,.10
+1973-05-02,Mike Anderson,PHI,HOU,Dave Roberts\batter_vs_pitcher.cgi?pitcher=roberda05&batter=andermi01,0.16,1.00,1.36
+1973-05-02,Bob Watson,HOU,@PHI,Jim Lonborg\batter_vs_pitcher.cgi?pitcher=lonboji01&batter=watsobo01,0.18,1.00,.97
+1973-05-02,Lou Brock,STL,@SDP,Clay Kirby\batter_vs_pitcher.cgi?pitcher=kirbycl01&batter=brocklo01,0.21,1.64,1.87
+1973-05-02,Jose Cruz,STL,@SDP,Clay Kirby\batter_vs_pitcher.cgi?pitcher=kirbycl01&batter=cruzjo01,0.25,2.69,1.62
+1973-05-03,Rusty Staub,NYM,CIN,Jim McGlothlin\batter_vs_pitcher.cgi?pitcher=mcgloji01&batter=staubru01,0.17,2.18,2.18
+1973-05-03,Larry Stahl,CIN,@NYM,Hank Webb\batter_vs_pitcher.cgi?pitcher=webbha01&batter=stahlla01,0.36,2.68,2.19
+1973-05-03,Al Oliver,PIT,@SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=oliveal01,0.17,1.75,1.15
+1973-05-03,Al Oliver,PIT,@SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=oliveal01,0.20,3.34,2.17
+1973-05-03,Milt May,PIT,@SFG,Sam McDowell\batter_vs_pitcher.cgi?pitcher=mcdowsa01&batter=maymi01,0.01,2.51,.03
+1973-05-03,Willie McCovey,SFG,PIT,Nelson Briles\batter_vs_pitcher.cgi?pitcher=brilene01&batter=mccovwi01,0.00,1.00,.00
+1973-05-04,Oscar Gamble,CLE,OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=gamblos01,0.00,1.00,.00
+1973-05-04,George Hendrick,CLE,OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=hendrge01,0.00,1.00,.00
+1973-05-04,Willie Horton,DET,TEX,Dick Bosman\batter_vs_pitcher.cgi?pitcher=bosmadi01&batter=hortowi01,0.18,1.87,.79
+1973-05-04,John Mayberry,KCR,@MIL,Jim Slaton\batter_vs_pitcher.cgi?pitcher=slatoji01&batter=maybejo01,0.11,1.00,.93
+1973-05-04,Dave May,MIL,KCR,Steve Busby\batter_vs_pitcher.cgi?pitcher=busbyst01&batter=mayda01,0.05,1.00,.43
+1973-05-04,Rico Petrocelli,BOS,@MIN,Jim Kaat\batter_vs_pitcher.cgi?pitcher=kaatji01&batter=petrori01,0.11,2.50,.81
+1973-05-04,Bobby Tolan,CIN,@MON,Mike Torrez\batter_vs_pitcher.cgi?pitcher=torremi01&batter=tolanbo01,0.16,1.75,1.05
+1973-05-04,Ron Fairly,MON,CIN,Clay Carroll\batter_vs_pitcher.cgi?pitcher=carrocl02&batter=fairlro01,0.10,1.75,.67
+1973-05-04,Cesar Cedeno,HOU,@NYM,Jerry Koosman\batter_vs_pitcher.cgi?pitcher=koosmje01&batter=cedence01,0.06,1.00,.63
+1973-05-04,Darrell Evans,ATL,@PHI,Bill Wilson\batter_vs_pitcher.cgi?pitcher=wilsobi03&batter=evansda01,0.49,1.88,2.27
+1973-05-04,Dave Cash,PIT,@SDP,Gary Ross\batter_vs_pitcher.cgi?pitcher=rossga01&batter=cashda01,0.08,2.40,.76
+1973-05-04,Rennie Stennett,PIT,@SDP,Steve Arlin\batter_vs_pitcher.cgi?pitcher=arlinst01&batter=stennre01,0.01,1.80,.06
+1973-05-04,Dave Hilton,SDP,PIT,Steve Blass\batter_vs_pitcher.cgi?pitcher=blassst01&batter=hiltoda01,0.00,2.54,.01
+1973-05-04,Rennie Stennett,PIT,@SDP,Rich Troedson\batter_vs_pitcher.cgi?pitcher=troedri01&batter=stennre01,0.00,1.76,.01
+1973-05-04,Rick Monday,CHC,@SFG,Juan Marichal\batter_vs_pitcher.cgi?pitcher=maricju01&batter=mondari01,0.10,1.00,.87
+1973-05-04,Chris Speier,SFG,CHC,Fergie Jenkins\batter_vs_pitcher.cgi?pitcher=jenkife01&batter=speiech01,0.15,1.59,1.15
+1973-05-04,Joe Pepitone,CHC,@SFG,Juan Marichal\batter_vs_pitcher.cgi?pitcher=maricju01&batter=pepitjo01,0.13,1.00,.46
+1973-05-04,Dave Kingman,SFG,CHC,Fergie Jenkins\batter_vs_pitcher.cgi?pitcher=jenkife01&batter=kingmda01,0.13,1.00,.57
+1973-05-05,Bob Oliver,CAL,@BAL,Mike Cuellar\batter_vs_pitcher.cgi?pitcher=cuellmi01&batter=olivebo01,0.13,1.00,1.14
+1973-05-05,Chris Chambliss,CLE,OAK,Blue Moon Odom\batter_vs_pitcher.cgi?pitcher=odombl01&batter=chambch01,0.22,1.88,.90
+1973-05-05,Al Kaline,DET,TEX,Mike Paul\batter_vs_pitcher.cgi?pitcher=paulmi01&batter=kalinal01,0.13,1.00,1.07
+1973-05-05,Willie Crawford,LAD,STL,Jim Bibby\batter_vs_pitcher.cgi?pitcher=bibbyji01&batter=crawfwi01,0.20,2.53,1.71
+1973-05-05,Ron Woods,MON,CIN,Don Gullett\batter_vs_pitcher.cgi?pitcher=gulledo01&batter=woodsro01,0.50,2.37,3.61
+1973-05-05,Johnny Edwards,HOU,@NYM,Jim McAndrew\batter_vs_pitcher.cgi?pitcher=mcandji01&batter=edwarjo01,0.12,1.00,.64
+1973-05-05,Cesar Cedeno,HOU,@NYM,Jim McAndrew\batter_vs_pitcher.cgi?pitcher=mcandji01&batter=cedence01,0.11,1.00,.40
+1973-05-05,Henry Aaron,ATL,@PHI,Steve Carlton\batter_vs_pitcher.cgi?pitcher=carltst01&batter=aaronha01,0.11,1.00,.39
+1973-05-05,Dusty Baker,ATL,@PHI,Steve Carlton\batter_vs_pitcher.cgi?pitcher=carltst01&batter=bakerdu01,0.02,1.00,.12
+1973-05-05,Nate Colbert,SDP,PIT,Dock Ellis\batter_vs_pitcher.cgi?pitcher=ellisdo01&batter=colbena01,0.31,2.40,2.58
+1973-05-05,Milt May,PIT,@SDP,Mike Corkins\batter_vs_pitcher.cgi?pitcher=corkimi01&batter=maymi01,0.12,1.00,1.10
+1973-05-05,Bob Robertson,PIT,@SDP,Vicente Romo\batter_vs_pitcher.cgi?pitcher=romovi01&batter=roberbo01,0.22,1.00,1.73
+1973-05-05,Ron Santo,CHC,@SFG,Randy Moffitt\batter_vs_pitcher.cgi?pitcher=moffira01&batter=santoro01,0.13,1.79,.95
+1973-05-06,Alex Johnson,TEX,@DET,Mickey Lolich\batter_vs_pitcher.cgi?pitcher=lolicmi01&batter=johnsal01,0.14,1.61,1.29
+1973-05-06,Joe Ferguson,LAD,STL,Alan Foster\batter_vs_pitcher.cgi?pitcher=fosteal01&batter=fergujo01,0.12,1.00,.65
+1973-05-06,John Mayberry,KCR,@MIL,Jerry Bell\batter_vs_pitcher.cgi?pitcher=bellje01&batter=maybejo01,0.12,1.00,.64
+1973-05-06,John Briggs,MIL,KCR,Dick Drago\batter_vs_pitcher.cgi?pitcher=dragodi01&batter=briggjo02,0.16,1.00,1.36
+1973-05-06,Darrell Porter,MIL,KCR,Dick Drago\batter_vs_pitcher.cgi?pitcher=dragodi01&batter=porteda02,0.30,1.00,1.36
+1973-05-06,Bobby Darwin,MIN,BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=darwibo01,0.17,1.62,1.64
+1973-05-06,Larry Hisle,MIN,BOS,Luis Tiant\batter_vs_pitcher.cgi?pitcher=tiantlu01&batter=hislela01,0.14,1.00,1.17
+1973-05-06,Joe Lis,MIN,BOS,Lynn McGlothen\batter_vs_pitcher.cgi?pitcher=mcgloly01&batter=lisjo01,0.00,1.00,.01
+1973-05-06,Johnny Bench,CIN,@MON,Mike Marshall\batter_vs_pitcher.cgi?pitcher=marshmi01&batter=benchjo01,0.03,1.00,.19
+1973-05-06,Dave Concepcion,CIN,@MON,John Strohmayer\batter_vs_pitcher.cgi?pitcher=strohjo01&batter=conceda01,0.00,1.00,.03
+1973-05-06,Bob Watson,HOU,@NYM,Tug McGraw\batter_vs_pitcher.cgi?pitcher=mcgratu01&batter=watsobo01,0.31,2.53,1.96
+1973-05-06,Lee May,HOU,@NYM,Ray Sadecki\batter_vs_pitcher.cgi?pitcher=sadecra01&batter=mayle01,0.14,3.36,1.73
+1973-05-06,Dusty Baker,ATL,@PHI,Larry Christenson\batter_vs_pitcher.cgi?pitcher=chrisla01&batter=bakerdu01,0.13,1.00,1.08
+1973-05-06,Mike Ryan,PHI,ATL,Gary Gentry\batter_vs_pitcher.cgi?pitcher=gentrga01&batter=ryanmi02,0.16,1.00,1.36
+1973-05-06,Johnny Grubb,SDP,PIT,Bob Moose\batter_vs_pitcher.cgi?pitcher=moosebo01&batter=grubbjo01,0.11,1.60,.83
+1973-05-06,Cito Gaston,SDP,PIT,Jim McKee\batter_vs_pitcher.cgi?pitcher=mckeeji02&batter=gastoci01,0.03,1.00,.24
+1973-05-06 (1),Joe Rudi,OAK,@CLE,Steve Dunning\batter_vs_pitcher.cgi?pitcher=dunnist01&batter=rudijo01,0.01,1.00,.07
+1973-05-06 (1),Billy Williams,CHC,@SFG,Jim Barr\batter_vs_pitcher.cgi?pitcher=barrji01&batter=willibi01,0.10,1.00,.40
+1973-05-06 (1),Dave Kingman,SFG,CHC,Milt Pappas\batter_vs_pitcher.cgi?pitcher=pappami01&batter=kingmda01,0.19,2.09,1.85
+1973-05-06 (1),Randy Hundley,CHC,@SFG,Jim Barr\batter_vs_pitcher.cgi?pitcher=barrji01&batter=hundlra01,0.08,1.00,.32
+1973-05-06 (1),Joe Pepitone,CHC,@SFG,Jim Barr\batter_vs_pitcher.cgi?pitcher=barrji01&batter=pepitjo01,0.20,1.75,1.33
+1973-05-06 (1),Gary Matthews,SFG,CHC,Milt Pappas\batter_vs_pitcher.cgi?pitcher=pappami01&batter=matthga01,0.12,1.00,.79
+1973-05-06 (1),Bobby Bonds,SFG,CHC,Jack Aker\batter_vs_pitcher.cgi?pitcher=akerja01&batter=bondsbo01,0.44,1.88,2.26
+1973-05-06 (2),Deron Johnson,OAK,@CLE,Brent Strom\batter_vs_pitcher.cgi?pitcher=strombr01&batter=johnsde01,0.23,1.88,.93
+1973-05-06 (2),Gene Tenace,OAK,@CLE,Brent Strom\batter_vs_pitcher.cgi?pitcher=strombr01&batter=tenacge01,0.11,1.00,.89
+1973-05-06 (2),Sal Bando,OAK,@CLE,Ray Lamb\batter_vs_pitcher.cgi?pitcher=lambra01&batter=bandosa01,0.09,1.74,.63
+1973-05-06 (2),Adrian Garrett,CHC,@SFG,Jim Willoughby\batter_vs_pitcher.cgi?pitcher=willoji01&batter=garread01,0.16,1.62,1.67
+1973-05-07,Deron Johnson,OAK,@BAL,Doyle Alexander\batter_vs_pitcher.cgi?pitcher=alexado01&batter=johnsde01,0.01,1.00,.10
+1973-05-07,Willie Stargell,PIT,@LAD,Don Sutton\batter_vs_pitcher.cgi?pitcher=suttodo01&batter=stargwi01,0.10,1.00,.91
+1973-05-07,Dave Cash,PIT,@LAD,Don Sutton\batter_vs_pitcher.cgi?pitcher=suttodo01&batter=cashda01,0.08,1.00,.56
+1973-05-07,Richie Hebner,PIT,@LAD,Don Sutton\batter_vs_pitcher.cgi?pitcher=suttodo01&batter=hebneri01,0.12,1.00,1.19
+1973-05-07,Manny Sanguillen,PIT,@LAD,Don Sutton\batter_vs_pitcher.cgi?pitcher=suttodo01&batter=sanguma01,0.22,1.00,.79
+1973-05-07,Al Oliver,PIT,@LAD,Don Sutton\batter_vs_pitcher.cgi?pitcher=suttodo01&batter=oliveal01,0.24,1.00,.75
+1973-05-07,Cesar Cedeno,HOU,@MON,Ernie McAnally\batter_vs_pitcher.cgi?pitcher=mcanaer01&batter=cedence01,0.03,1.00,.24
+1973-05-07,Dusty Baker,ATL,@NYM,Tom Seaver\batter_vs_pitcher.cgi?pitcher=seaveto01&batter=bakerdu01,0.21,1.00,1.73
+1973-05-07,Jose Cardenal,CHC,@SDP,Bill Greif\batter_vs_pitcher.cgi?pitcher=greifbi01&batter=cardejo02,0.03,1.00,.40
+1973-05-08,Dave Duncan,CLE,CAL,Clyde Wright\batter_vs_pitcher.cgi?pitcher=wrighcl01&batter=duncada01,0.11,1.00,.67
+1973-05-08,Amos Otis,KCR,DET,Woodie Fryman\batter_vs_pitcher.cgi?pitcher=frymawo01&batter=otisam01,0.11,1.00,.63
+1973-05-08,Paul Schaal,KCR,DET,Tom Timmermann\batter_vs_pitcher.cgi?pitcher=timmeto01&batter=schaapa01,0.01,1.58,.06
+1973-05-08,Al Oliver,PIT,@LAD,Andy Messersmith\batter_vs_pitcher.cgi?pitcher=messean01&batter=oliveal01,0.11,1.00,.39
+1973-05-08,Willie Stargell,PIT,@LAD,Andy Messersmith\batter_vs_pitcher.cgi?pitcher=messean01&batter=stargwi01,0.14,1.00,.51
+1973-05-08,Ron Cey,LAD,PIT,Nelson Briles\batter_vs_pitcher.cgi?pitcher=brilene01&batter=ceyro01,0.14,2.69,1.01
+1973-05-08,Willie Stargell,PIT,@LAD,Andy Messersmith\batter_vs_pitcher.cgi?pitcher=messean01&batter=stargwi01,0.05,1.63,.61
+1973-05-08,Ron Blomberg,NYY,@MIN,Dick Woodson\batter_vs_pitcher.cgi?pitcher=woodsdi01&batter=blombro01,0.20,2.35,1.88
+1973-05-08,Tony Oliva,MIN,NYY,Lindy McDaniel\batter_vs_pitcher.cgi?pitcher=mcdanli01&batter=olivato01,0.00,1.00,.00
+1973-05-08,Tommie Agee,HOU,@MON,Steve Renko\batter_vs_pitcher.cgi?pitcher=renkost01&batter=ageeto01,0.10,1.00,.38
+1973-05-08,Ron Fairly,MON,HOU,Ken Forsch\batter_vs_pitcher.cgi?pitcher=forscke01&batter=fairlro01,0.11,1.00,.97
+1973-05-08,Cesar Cedeno,HOU,@MON,Steve Renko\batter_vs_pitcher.cgi?pitcher=renkost01&batter=cedence01,0.12,1.00,1.03
+1973-05-08,Davey Johnson,ATL,@NYM,Jon Matlack\batter_vs_pitcher.cgi?pitcher=matlajo01&batter=johnsda02,0.14,1.00,.80
+1973-05-08,Davey Johnson,ATL,@NYM,Phil Hennigan\batter_vs_pitcher.cgi?pitcher=henniph01&batter=johnsda02,0.41,3.36,4.90
+1973-05-08,Johnny Bench,CIN,@PHI,Jim Lonborg\batter_vs_pitcher.cgi?pitcher=lonboji01&batter=benchjo01,0.05,2.37,.49
+1973-05-08,Rick Monday,CHC,@SDP,Fred Norman\batter_vs_pitcher.cgi?pitcher=normafr01&batter=mondari01,0.34,1.89,1.13
+1973-05-08,Bobby Bonds,SFG,STL,Bob Gibson\batter_vs_pitcher.cgi?pitcher=gibsobo01&batter=bondsbo01,0.10,1.00,.87
+1973-05-08,Willie McCovey,SFG,STL,Bob Gibson\batter_vs_pitcher.cgi?pitcher=gibsobo01&batter=mccovwi01,0.13,1.00,1.07
+1973-05-08,Dave Kingman,SFG,STL,Bob Gibson\batter_vs_pitcher.cgi?pitcher=gibsobo01&batter=kingmda01,0.10,1.00,.82
+1973-05-08,Bobby Bonds,SFG,STL,Bob Gibson\batter_vs_pitcher.cgi?pitcher=gibsobo01&batter=bondsbo01,0.21,1.62,1.91
+1973-05-08,Jose Cruz,STL,@SFG,Randy Moffitt\batter_vs_pitcher.cgi?pitcher=moffira01&batter=cruzjo01,0.04,1.38,.72
+1973-05-09,Reggie Jackson,OAK,@BAL,Dave McNally\batter_vs_pitcher.cgi?pitcher=mcnalda01&batter=jacksre01,0.13,1.00,.69
+1973-05-09,Al Bumbry,BAL,OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=bumbral01,0.11,1.00,1.75
+1973-05-09,Rich Coggins,BAL,OAK,Catfish Hunter\batter_vs_pitcher.cgi?pitcher=hunteca01&batter=coggiri01,0.44,1.00,3.39
+1973-05-09,John Mayberry,KCR,DET,Jim Perry\batter_vs_pitcher.cgi?pitcher=perryji01&batter=maybejo01,0.09,1.00,.38
+1973-05-09,Norm Cash,DET,@KCR,Doug Bird\batter_vs_pitcher.cgi?pitcher=birddo01&batter=cashno01,0.07,1.00,.39
+1973-05-09,Manny Sanguillen,PIT,@LAD,Claude Osteen\batter_vs_pitcher.cgi?pitcher=osteecl01&batter=sanguma01,0.25,1.76,1.60
+1973-05-09,Bob Robertson,PIT,@LAD,Claude Osteen\batter_vs_pitcher.cgi?pitcher=osteecl01&batter=roberbo01,0.15,1.76,1.14
+1973-05-09,Bob Coluccio,MIL,TEX,Dick Bosman\batter_vs_pitcher.cgi?pitcher=bosmadi01&batter=colucbo01,0.10,1.00,.87
+1973-05-09,Dave May,MIL,TEX,Dick Bosman\batter_vs_pitcher.cgi?pitcher=bosmadi01&batter=mayda01,0.10,1.00,.53
+1973-05-09,Dave May,MIL,TEX,Don Stanhouse\batter_vs_pitcher.cgi?pitcher=stanhdo01&batter=mayda01,0.05,1.00,.42
+1973-05-09,Jeff Burroughs,TEX,@MIL,Jim Colborn\batter_vs_pitcher.cgi?pitcher=colboji01&batter=burroje01,0.05,1.00,.39
+1973-05-09,Rusty Staub,NYM,ATL,Phil Niekro\batter_vs_pitcher.cgi?pitcher=niekrph01&batter=staubru01,0.02,1.00,.11
+1973-05-09,Johnny Bench,CIN,@PHI,Steve Carlton\batter_vs_pitcher.cgi?pitcher=carltst01&batter=benchjo01,0.16,1.59,1.24
+1973-05-09,Willie Montanez,PHI,CIN,Don Gullett\batter_vs_pitcher.cgi?pitcher=gulledo01&batter=montawi01,0.23,1.88,.91
+1973-05-09,Bill Robinson,PHI,CIN,Don Gullett\batter_vs_pitcher.cgi?pitcher=gulledo01&batter=robinbi02,0.22,1.88,.92
+1973-05-09,Johnny Bench,CIN,@PHI,Steve Carlton\batter_vs_pitcher.cgi?pitcher=carltst01&batter=benchjo01,0.38,2.68,2.10
+1973-05-09,Johnny Bench,CIN,@PHI,Steve Carlton\batter_vs_pitcher.cgi?pitcher=carltst01&batter=benchjo01,0.42,1.88,1.61
+1973-05-09,Del Unser,PHI,CIN,Pedro Borbon\batter_vs_pitcher.cgi?pitcher=borbope01&batter=unserde01,0.31,1.00,2.46
+1973-05-09,Dave Concepcion,CIN,@PHI,Barry Lersch\batter_vs_pitcher.cgi?pitcher=lerscba01&batter=conceda01,0.42,1.75,3.00
+1973-05-09,Billy Williams,CHC,@SDP,Mike Corkins\batter_vs_pitcher.cgi?pitcher=corkimi01&batter=willibi01,0.19,1.76,1.17
+1973-05-09,Randy Hundley,CHC,@SDP,Mike Corkins\batter_vs_pitcher.cgi?pitcher=corkimi01&batter=hundlra01,0.12,1.64,1.06
+1973-05-09,Dave Hilton,SDP,CHC,Burt Hooton\batter_vs_pitcher.cgi?pitcher=hootobu01&batter=hiltoda01,0.06,1.00,.41
+1973-05-09,Rick Monday,CHC,@SDP,Clay Kirby\batter_vs_pitcher.cgi?pitcher=kirbycl01&batter=mondari01,0.09,2.69,.68
+1973-05-09,Ken Reitz,STL,@SFG,Ron Bryant\batter_vs_pitcher.cgi?pitcher=bryanro01&batter=reitzke01,0.19,1.75,1.26
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Stathead.com</a>: <a href="https://stathead.com/baseball/event_finder.cgi?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">View Stathead Tool Used</a><br>Generated 8/20/2021.
